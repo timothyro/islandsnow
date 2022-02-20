@@ -6,3 +6,13 @@
 #middle {
   background-color: white;
 }
+body {
+  padding-bottom: 80%;
+}
+a {
+  color: black;
+}
+.ui.button {
+  background-color: black;
+  color: white;
+}
